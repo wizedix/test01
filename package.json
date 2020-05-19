@@ -1,0 +1,22 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "description": "This is my cool project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizedix/test01.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ben Hakala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wizedix/test01/issues"
+  },
+  "homepage": "https://github.com/wizedix/test01#readme"
+}
